@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpgna [:alphanum;]
+ls -mpva 
