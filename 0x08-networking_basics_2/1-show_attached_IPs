@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#display all active IPV4s on the machine it is executed
+ifconfig
